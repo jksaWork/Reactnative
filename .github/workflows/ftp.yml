@@ -14,3 +14,4 @@ jobs:
         server:  	ftpupload.net
         username: epiz_31223230
         password: 'vu316mZBVP'
+        server-dir: '/htdocs/jksa'
